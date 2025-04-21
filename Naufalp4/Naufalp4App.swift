@@ -11,7 +11,7 @@ import SwiftUI
 struct Naufalp4App: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeView()
         }
     }
 }
